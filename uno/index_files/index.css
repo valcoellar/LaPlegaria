@@ -44,7 +44,7 @@ h2 {
 
 #head {
 	height:160px;
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/head-fondo.jpg);
+	background-image:url();
 }
 
 #redes-sociales {
@@ -250,21 +250,21 @@ transition: all 0.4s ease;
 	width:1100px;
 	margin:auto;
 	color:#333;
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/banner1.jpg);
+	background-image:url();
 	height: 580px;
 }
 .banner2{
 	width:1100px;
 	margin:auto;
 	color:#333;
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/new_banner2.png);
+	background-image:url();
 	height: 580px;
 }
 .banner3{
 	width:1100px;
 	margin:auto;
 	color:#333;
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/banner2.png);
+	background-image:url();
 	height: 580px;
 }
 .info{
@@ -339,7 +339,7 @@ transition: all 0.4s ease;
 }
 
 .boton-leermas {
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/fondo-leermas.jpg);
+	background-image:url();
 	height:38px;
 	text-align: right;
 	padding-right: 10px;
@@ -377,7 +377,7 @@ transition: all 0.4s ease;
 	padding: 10px;
 }
 .noticia-titulo{
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/fondo-titulo-productos.jpg);
+	background-image:url();
 	height: 30px;
 	font-size: 20px;
 	font-family: 'Oswald', sans-serif;
@@ -480,7 +480,7 @@ transition: all 0.4s ease;
 	padding: 5px;
 }
 #contacto-derecho{
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/fondo-contacto.png);
+	background-image:url();
 	width:595px;
 	min-height:560px;
 	float:right;
@@ -544,7 +544,7 @@ transition: all 0.4s ease;
 
 #productos{
 	padding-top:65px;
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/productos-fondo.png);
+	background-image:url();
 	background-repeat:no-repeat;
 	width: 1000px;
 	margin: auto;
@@ -575,7 +575,7 @@ transition: all 0.4s ease;
 	margin-top: 20px;
 }
 .titulo-producto {
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/fondo-titulo-productos.jpg);
+	background-image:url();
 	width: 315px;
 	height: 35px;
 	font-size: 20px;
@@ -648,7 +648,7 @@ transition: all 0.4s ease;
 
 
 #pie {
-	background-image:url(/web/20150908125011im_/http://www.elportaldelasanimas.com/images/linea-pie.png);
+	background-image:url();
 	background-repeat:no-repeat;
 	background-position:top;
 	text-align: center;
@@ -683,25 +683,3 @@ transition: all 0.4s ease;
 	.height2{
 	height:490px;
 	}
-
-/*
-     FILE ARCHIVED ON 12:50:11 Sep 08, 2015 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:13:59 Dec 20, 2021.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 53.818
-  exclusion.robots: 0.088
-  exclusion.robots.policy: 0.081
-  RedisCDXSource: 0.602
-  esindex: 0.008
-  LoadShardBlock: 31.661 (3)
-  PetaboxLoader3.datanode: 54.085 (5)
-  CDXLines.iter: 19.258 (3)
-  load_resource: 116.492 (2)
-  PetaboxLoader3.resolve: 26.384
-*/

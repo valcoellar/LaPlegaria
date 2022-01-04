@@ -56,7 +56,7 @@ body{
 
 .bx-wrapper .bx-loading {
 	min-height: 50px;
-	background: url(/web/20150908162823im_/http://www.elportaldelasanimas.com/js/images/bx_loader.gif) center center no-repeat;
+	background: url() center center no-repeat;
 	height: 100%;
 	width: 100%;
 	position: absolute;
@@ -106,12 +106,12 @@ body{
 
 .bx-wrapper .bx-prev {
 	left: -3px;
-	background: url(/web/20150908162823im_/http://www.elportaldelasanimas.com/js/images/controls.png) no-repeat 0 -32px;
+	background: url() no-repeat 0 -32px;
 }
 
 .bx-wrapper .bx-next {
 	right: 0px;
-	background: url(/web/20150908162823im_/http://www.elportaldelasanimas.com/js/images/controls.png) no-repeat -43px -32px;
+	background: url() no-repeat -43px -32px;
 }
 
 .bx-wrapper .bx-prev:hover {
@@ -149,7 +149,7 @@ body{
 	width: 10px;
 	height: 11px;
 	outline: 0;
-	background: url(/web/20150908162823im_/http://www.elportaldelasanimas.com/css/images/controls.png) -86px -11px no-repeat;
+	background: url() -86px -11px no-repeat;
 	margin: 0 3px;
 }
 
@@ -164,7 +164,7 @@ body{
 	width: 9px;
 	height: 11px;
 	outline: 0;
-	background: url(/web/20150908162823im_/http://www.elportaldelasanimas.com/css/images/controls.png) -86px -44px no-repeat;
+	background: url() -86px -44px no-repeat;
 	margin: 0 3px;
 }
 
@@ -204,24 +204,3 @@ body{
 	padding: 10px;
 }
 
-/*
-     FILE ARCHIVED ON 16:28:23 Sep 08, 2015 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:13:59 Dec 20, 2021.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 81.387
-  exclusion.robots: 0.093
-  exclusion.robots.policy: 0.086
-  RedisCDXSource: 0.564
-  esindex: 0.006
-  LoadShardBlock: 62.425 (3)
-  PetaboxLoader3.datanode: 89.351 (5)
-  CDXLines.iter: 16.3 (3)
-  load_resource: 133.668 (2)
-  PetaboxLoader3.resolve: 24.19
-*/

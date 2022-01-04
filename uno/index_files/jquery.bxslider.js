@@ -1327,24 +1327,3 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 })(jQuery);
 
 }
-/*
-     FILE ARCHIVED ON 08:53:01 Sep 08, 2015 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:13:59 Dec 20, 2021.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 79.52
-  exclusion.robots: 0.121
-  exclusion.robots.policy: 0.114
-  RedisCDXSource: 0.643
-  esindex: 0.008
-  LoadShardBlock: 57.157 (3)
-  PetaboxLoader3.datanode: 56.022 (4)
-  CDXLines.iter: 19.128 (3)
-  load_resource: 42.623
-  PetaboxLoader3.resolve: 20.012
-*/
